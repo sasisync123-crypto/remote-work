@@ -14,8 +14,6 @@
       "version": "1.0",
       "content": [
         {
-  "content": [
-    {
       "id": "5140de01",
       "settings": {
         "ekit_section_parallax_multi_items": [],
@@ -79,13 +77,6 @@
       "isInner": false,
       "elType": "container"
     }
-  ],
-  "page_settings": { "hide_title": "yes" },
-  "version": "0.4",
-  "title": "MURUGAN THUNAI 7",
-  "type": "container"
-}
-
       ]
     },
     {
