@@ -1,8 +1,8 @@
 {
   "templates": [
     {
-      "id": 1001,
-      "title": "Modern Landing Page",
+      "id": 1004,
+      "title": "Modern Landing Two",
       "thumbnail": "https://via.placeholder.com/400x300?text=Modern+Landing",
       "preview": "https://via.placeholder.com/800x600?text=Modern+Landing+Preview",
       "published": 1700000000,
@@ -40,7 +40,7 @@
       ]
     },
     {
-      "id": 1002,
+      "id": 1005,
       "title": "E-Commerce Product Showcase",
       "thumbnail": "https://via.placeholder.com/400x300?text=E-Commerce",
       "preview": "https://via.placeholder.com/800x600?text=E-Commerce+Preview",
