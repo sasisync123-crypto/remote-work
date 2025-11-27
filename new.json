@@ -1,0 +1,117 @@
+{
+  "templates": [
+    {
+      "id": 1001,
+      "title": "Modern Landing Page",
+      "thumbnail": "https://via.placeholder.com/400x300?text=Modern+Landing",
+      "preview": "https://via.placeholder.com/800x600?text=Modern+Landing+Preview",
+      "published": 1700000000,
+      "modified": 1700100000,
+      "categories": ["landing", "sales", "conversion"],
+      "keywords": ["modern", "clean", "minimal", "startup"],
+      "has_pro": false,
+      "required_plugins": ["elementor"],
+      "version": "1.0",
+      "content": [
+        {
+      "id": "5140de01",
+      "settings": {
+        "ekit_section_parallax_multi_items": [],
+        "ekit_cursor_text_label": "Elementskit Cursor"
+      },
+      "elements": [
+        {
+          "id": "58a18591",
+          "settings": {
+            "ekit_client_logo_repiter": [
+              {
+                "ekit_client_logo_list_title": "Title #1",
+                "_id": "27085c5",
+                "ekit_client_logo_image_normal": {
+                  "url": "https://www.syncfusion.com/code-studio/wp-content/uploads/2025/09/unified-llm-provider-model-management@2x-2.webp",
+                  "source": "url"
+                }
+              },
+              {
+                "ekit_client_logo_list_title": "Title #2",
+                "_id": "b8beca1",
+                "ekit_client_logo_image_normal": {
+                  "url": "https://cdn.syncfusion.com/content/images/home-v3/cody-paper-plane-V1.webp",
+                  "source": "url"
+                }
+              },
+              {
+                "ekit_client_logo_list_title": "Title #3",
+                "_id": "afcf6e6",
+                "ekit_client_logo_image_normal": {
+                  "url": "https://www.syncfusion.com/blogs/wp-content/uploads/2018/08/syncfusion_solution_69cc3ae3.png",
+                  "source": "url"
+                }
+              },
+              {
+                "ekit_client_logo_list_title": "Title #4",
+                "_id": "de75959",
+                "ekit_client_logo_image_normal": {
+                  "url": "https://library.keydesign.xyz/wp-content/uploads/2025/04/sierra-helpdesk-hero.jpg",
+                  "source": "url"
+                }
+              }
+            ],
+            "ekit_adv_tooltip_content": "Tooltip Content.",
+            "ekit_cursor_text_label": "Elementskit Cursor"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "elementskit-client-logo",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    }
+      ]
+    },
+    {
+      "id": 1002,
+      "title": "E-Commerce Product Showcase",
+      "thumbnail": "https://via.placeholder.com/400x300?text=E-Commerce",
+      "preview": "https://via.placeholder.com/800x600?text=E-Commerce+Preview",
+      "published": 1700010000,
+      "modified": 1700110000,
+      "categories": ["ecommerce", "shop", "products"],
+      "keywords": ["store", "business", "professional", "sales"],
+      "has_pro": true,
+      "required_plugins": ["elementor", "woocommerce"],
+      "version": "2.1",
+      "content": [
+        {
+          "id": "xyz123",
+          "elType": "section",
+          "settings": {
+            "background_background": "classic",
+            "background_color": "#f5f5f5"
+          },
+          "elements": [
+            {
+              "id": "xyz456",
+              "elType": "column",
+              "settings": {},
+              "elements": [
+                {
+                  "id": "xyz789",
+                  "elType": "widget",
+                  "widgetType": "woocommerce-products",
+                  "settings": {
+                    "columns": 3,
+                    "rows": 4,
+                    "paginate": "yes"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
