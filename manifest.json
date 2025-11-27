@@ -29,8 +29,7 @@
                 "_id": "27085c5",
                 "ekit_client_logo_image_normal": {
                   "url": "https://www.syncfusion.com/code-studio/wp-content/uploads/2025/09/unified-llm-provider-model-management@2x-2.webp",
-                  "id":12345,
-                  "size": "",
+                
                   "source": "url"
                 }
               },
@@ -39,8 +38,7 @@
                 "_id": "b8beca1",
                 "ekit_client_logo_image_normal": {
                   "url": "https://cdn.syncfusion.com/content/images/home-v3/cody-paper-plane-V1.webp",
-                  "id": 12346,
-                  "size": "",
+                 
                   "source": "url"
                 }
               },
@@ -49,8 +47,7 @@
                 "_id": "afcf6e6",
                 "ekit_client_logo_image_normal": {
                   "url": "https://www.syncfusion.com/blogs/wp-content/uploads/2018/08/syncfusion_solution_69cc3ae3.png",
-                  "id": 12347,
-                  "size": "",
+                 
                   "source": "url"
                 }
               },
@@ -59,8 +56,6 @@
                 "_id": "de75959",
                 "ekit_client_logo_image_normal": {
                   "url": "https://library.keydesign.xyz/wp-content/uploads/2025/04/sierra-helpdesk-hero.jpg",
-                  "id": 12348,
-                  "size": "",
                   "source": "url"
                 }
               }
