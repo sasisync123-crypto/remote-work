@@ -1,0 +1,38 @@
+{
+    "version": "0.4",
+    "title": "GitHub Test Template",
+    "type": "section",
+    "content": [
+        {
+            "id": "7a8b9c",
+            "elType": "section",
+            "settings": {
+                "background_background": "classic",
+                "background_color": "#f0f0f0"
+            },
+            "elements": [
+                {
+                    "id": "1x2y3z",
+                    "elType": "column",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [
+                        {
+                            "id": "998877",
+                            "elType": "widget",
+                            "settings": {
+                                "title": "IT WORKS! Imported from GitHub",
+                                "align": "center",
+                                "title_color": "#93003c"
+                            },
+                            "widgetType": "heading"
+                        }
+                    ],
+                    "isInner": false
+                }
+            ],
+            "isInner": false
+        }
+    ]
+}
