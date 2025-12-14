@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "title": "GitHub Test Section",
+        "thumbnail": "https://ps.w.org/elementor/assets/banner-772x250.png",
+        "url": "https://raw.githubusercontent.com/sasisync123-crypto/remote-work/refs/heads/main/sample-template.json",
+"preview": "https://library.keydesign.xyz/?elementor_library=accordion-28"
+    },
+    {
+        "id": "2",
+        "title": "Real Template",
+        "thumbnail": "https://github.com/sasisync123-crypto/remote-work/raw/main/hero-eight.png",
+        "url": "https://raw.githubusercontent.com/sasisync123-crypto/remote-work/refs/heads/main/template-2.json",
+"preview": "https://library.keydesign.xyz/?elementor_library=accordion-28"
+    }
+]
