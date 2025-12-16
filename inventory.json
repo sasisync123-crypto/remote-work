@@ -1,0 +1,8 @@
+[
+  {
+    "id": "1",
+    "title": "My Hero Section",
+    "file": "templates/hero.json",
+    "thumbnail": "thumbnails/hero.jpg"
+  }
+]
