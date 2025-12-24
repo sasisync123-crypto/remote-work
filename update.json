@@ -1,0 +1,14 @@
+[
+  {
+    "name": "avatar1.png",
+    "url": "https://raw.githubusercontent.com/sasisync123-crypto/remote-work/main/card1.png",
+    "category": "Avatars",
+    "tags": ["user", "profile"]
+  },
+  {
+    "name": "logo1.png",
+    "url": "https://raw.githubusercontent.com/sasisync123-crypto/remote-work/main/ai-converter-tool-1.png",
+    "category": "Company logos",
+    "tags": ["brand", "logo"]
+  }
+]
